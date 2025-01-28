@@ -122,7 +122,7 @@ function sortearAmigo() {
 
 ---
 
-## 🧑‍💻 Autor
+
 ## 🧑‍💻 Autor
 
 <div style="display: inline-block; text-align: center; border: 2px solid #e1e4e8; border-radius: 8px; padding: 10px; width: 150px;">
